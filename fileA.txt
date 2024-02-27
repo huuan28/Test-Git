@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 
 bla bla
 8 9 10 J Q K
+=======
+huuan add a file
+bla bla
+huuan add text
+>>>>>>> 2c77abf40a945d22e38066c6620e05b0dcc43ee8
